@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T13:15:56.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JYKpj2e3JybxjTeDp4fv" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T13:19:39.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2xQSGc6D7PQ-hWM6EeU5" version="14.0.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="782" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -514,32 +514,50 @@
             <mxPoint x="351" y="-103.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1600" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1468" target="ROKTXX_F3BF79OsNiIu9-1599">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1468" value="Dry Cough" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1358.5" y="1274" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1469" value="Fatigue" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1373.5" y="1346.5" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1596" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1470" target="ROKTXX_F3BF79OsNiIu9-1595">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1470" value="Shortness of Breath" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1348.5" y="1411.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1440" y="1429" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1471" value="Headache" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1283.5" y="1471.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1320" y="1478.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1594" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1472" target="ROKTXX_F3BF79OsNiIu9-1592">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1472" value="Sore Throat" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1183.5" y="1529" width="120" height="40" as="geometry" />
+          <mxGeometry x="1283.5" y="1584.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1591" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1473" target="ROKTXX_F3BF79OsNiIu9-1590">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1473" value="Aches and Pains" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1083.5" y="1471.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1130" y="1518.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1589" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1474" target="ROKTXX_F3BF79OsNiIu9-1588">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1474" value="Loss of Smell" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1003.5" y="1411.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="990" y="1558.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1587" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1475" target="ROKTXX_F3BF79OsNiIu9-1585">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1475" value="Loss of taste" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="963.5" y="1339" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1478" value="Fever" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1298.5" y="1194" width="120" height="40" as="geometry" />
+          <mxGeometry x="1270" y="1171.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1479" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1478" edge="1">
           <mxGeometry x="243.5" y="39" width="100" height="100" as="geometry">
@@ -798,13 +816,37 @@
           <mxGeometry x="438.5" y="1470.5" width="120" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1578" value="&lt;font color=&quot;#000000&quot;&gt;Re-Stock Sensor&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="663.5" y="1540" width="120" height="98.5" as="geometry" />
+          <mxGeometry x="618.5" y="1584.75" width="120" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1580" value="&lt;font color=&quot;#000000&quot;&gt;Google Maps Traffic Data&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1451.5" width="120" height="98.5" as="geometry" />
+          <mxGeometry x="750" y="1486.25" width="120" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1582" value="&lt;font color=&quot;#000000&quot;&gt;Check-in, entertainment&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="883.5" y="1083" width="120" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1585" value="&lt;font color=&quot;#000000&quot;&gt;Taste Test Game&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="853.5" y="1638.5" width="120" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1588" value="&lt;font color=&quot;#000000&quot;&gt;Smell Test Game&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1003.5" y="1670" width="120" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1590" value="&lt;font color=&quot;#000000&quot;&gt;Pain Test&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1680" width="120" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1592" value="&lt;font color=&quot;#000000&quot;&gt;Symptom Quiz&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1700" width="120" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1595" value="&lt;font color=&quot;#000000&quot;&gt;Lung Volume Test&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1478.5" y="1601.5" width="120" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1598" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROKTXX_F3BF79OsNiIu9-1597" target="1478">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1597" value="&lt;font color=&quot;#000000&quot;&gt;Temperature Tester&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1253.5" y="1016.5" width="120" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1599" value="&lt;font color=&quot;#000000&quot;&gt;Cough Frequency Monitor&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1097.25" width="120" height="98.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
