@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:29:50.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FsR04O5GOKsSfzYE8Yq4" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:37:32.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="naXa20bZPSgNCrBs1N9P" version="14.0.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="652" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="1356" value="Prevention" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="558.5" y="1171.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1357" value="Ant" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1357" value="History of Corona Viruses" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="411.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1358" value="Dolphin" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1358" value="Sneezing" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="416.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
@@ -61,34 +61,34 @@
             <mxPoint x="281" y="226.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1367" value="Lion" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1367" value="Coughing" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="418.5" y="466.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1368" value="Elephant" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1368" value="Indoor Gatherings" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="346.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1369" value="Cat" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1369" value="Shared Surfaces" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="271.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1370" value="Giraffe" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1370" value="Close Contacts" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="206.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1371" value="Dog" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1371" value="No masks" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="408.5" y="146.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1372" value="Donkey" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1372" value="Poor Hygiene" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="488.5" y="86.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1373" value="Leopard" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1373" value="Lack of Education" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="608.5" y="146.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1374" value="Horse" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1374" value="Lack of Resources" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="663.5" y="206.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1375" value="Zebra" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1375" value="Selfish People" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="698.5" y="266.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1376" value="Gazelle" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1376" value="Misinformation" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="713.5" y="346.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1377" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" target="1376" edge="1">
@@ -157,38 +157,32 @@
             <mxPoint x="-121.5" y="56.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1388" value="Bee" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1388" value="Common Cold" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="913.5" y="341.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1389" value="Hornet" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1389" value="Virus Structure" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="903.5" y="271.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1390" value="Fly" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1390" value="Viral Load" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="923.5" y="201.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1391" value="Termite" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1391" value="Airborne" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="963.5" y="141.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1392" value="Mantis" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1392" value="Surface Transmission" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1033.5" y="81.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1393" value="Ladybug" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1393" value="Modeling" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1163.5" y="81.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1394" value="Butterfly" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1394" value="Risk migration" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1233.5" y="141.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1395" value="Flea" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1395" value="Data Sources" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1283.5" y="201.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1396" value="Mosquito" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1396" value="Scientific Trials" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1298.5" y="271.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1397" value="Spider" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1293.5" y="331.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1398" value="Bumblebee" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1238.5" y="401.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1399" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1357" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
@@ -245,18 +239,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1408" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1396" edge="1">
-          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
-            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
-            <mxPoint x="103.5" y="21.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1409" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1397" edge="1">
-          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
-            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
-            <mxPoint x="103.5" y="21.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1410" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1398" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="3.5" y="121.5" as="sourcePoint" />
             <mxPoint x="103.5" y="21.5" as="targetPoint" />
@@ -580,47 +562,38 @@
             <mxPoint x="343.5" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1490" value="Philadendron" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1490" value="Masks" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="623.5" y="1006.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1491" value="Dahlia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1491" value="Respirators" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="488.5" y="1011.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1492" value="Petunia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1492" value="Social Distancing" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="423.5" y="1066.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1493" value="Cactus" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1493" value="Policies Schools" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="368.5" y="1126.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1494" value="Tulip" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="1181.5" width="120" height="40" as="geometry" />
+        <mxCell id="1494" value="Policies Nursing Homes" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1181.5" width="138.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1495" value="Lilac" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1495" value="Policies Work Place" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="363.5" y="1246.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1496" value="Dandelion" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1496" value="Buy in from public" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="398.5" y="1309" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1497" value="Poppy" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1497" value="Education" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="468.5" y="1359" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1498" value="Gerbera" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1498" value="Sanitary Products" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="578.5" y="1414" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1499" value="Orchid" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1499" value="Lockdown" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="703.5" y="1349" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1500" value="Gladiola" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1500" value="Sheltering in Place" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="763.5" y="1281.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1501" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="783.5" y="1186" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1502" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1501" edge="1">
-          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
-            <mxPoint x="188.5" y="151.5" as="sourcePoint" />
-            <mxPoint x="288.5" y="51.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="1503" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1490" edge="1">
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
