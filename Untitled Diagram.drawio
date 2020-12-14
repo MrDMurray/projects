@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T22:53:35.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-zfi7dg35N6WOEKXGaOH" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T23:00:33.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BXjwIii28T3YVK3zX4hO" version="13.8.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2591" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5180" dy="3064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,7 +571,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1470" value="Shortness of Breath" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="1429" width="120" height="40" as="geometry" />
+          <mxGeometry x="1500" y="1414" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rADrI20PCE6jYx3cys35-1605" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1471" target="rADrI20PCE6jYx3cys35-1604">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1471" value="Headache" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1478.5" width="120" height="40" as="geometry" />
@@ -836,7 +839,7 @@
             <mxPoint x="1611" y="371.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1515" value="Covid-19" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="1515" value="Covid-19 &lt;br&gt;CompSci&lt;br&gt;&amp;nbsp;Project Ideas" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="961" y="676.5" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1541" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1459" edge="1">
@@ -857,7 +860,7 @@
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1549" value="&lt;font color=&quot;#000000&quot;&gt;Cleaning Rota bot&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="493.5" y="-68.5" width="120" height="98.5" as="geometry" />
         </mxCell>
-        <mxCell id="ROKTXX_F3BF79OsNiIu9-1551" value="&lt;font color=&quot;#000000&quot;&gt;Key fob system&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1551" value="&lt;font color=&quot;#000000&quot;&gt;Key fob contact tracing&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="140" y="68" width="120" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="rADrI20PCE6jYx3cys35-1542" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROKTXX_F3BF79OsNiIu9-1553" target="rADrI20PCE6jYx3cys35-1541">
@@ -890,7 +893,7 @@
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1564" value="&lt;font color=&quot;#000000&quot;&gt;Mask Tester&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="470" y="842.25" width="120" height="98.5" as="geometry" />
         </mxCell>
-        <mxCell id="ROKTXX_F3BF79OsNiIu9-1566" value="&lt;font color=&quot;#000000&quot;&gt;Laser Circle&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="ROKTXX_F3BF79OsNiIu9-1566" value="&lt;font color=&quot;#000000&quot;&gt;2M Laser Circle with stats&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="300" y="862.25" width="120" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1568" value="&lt;font color=&quot;#000000&quot;&gt;Temperature in Rooms&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
@@ -930,7 +933,7 @@
           <mxGeometry x="1403.5" y="1698.5" width="120" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1595" value="&lt;font color=&quot;#000000&quot;&gt;Lung Volume Test&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1691" y="1478.5" width="140" height="101.5" as="geometry" />
+          <mxGeometry x="1730" y="1400" width="140" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="ROKTXX_F3BF79OsNiIu9-1598" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ROKTXX_F3BF79OsNiIu9-1597" target="1478" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -963,7 +966,7 @@
           <mxGeometry x="1230.25" y="1810" width="226.5" height="147" as="geometry" />
         </mxCell>
         <mxCell id="rADrI20PCE6jYx3cys35-1558" value="&lt;font color=&quot;#000000&quot;&gt;DIY Oximeter using LEDs&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1487" y="1537" width="174" height="101.5" as="geometry" />
+          <mxGeometry x="1629.5" y="1518.5" width="174" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="rADrI20PCE6jYx3cys35-1563" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rADrI20PCE6jYx3cys35-1560" target="rADrI20PCE6jYx3cys35-1562">
           <mxGeometry relative="1" as="geometry" />
@@ -1024,6 +1027,9 @@
         </mxCell>
         <mxCell id="rADrI20PCE6jYx3cys35-1602" value="&lt;font color=&quot;#000000&quot;&gt;Mask break time Calculator using Temperature and Noise&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1171.5" width="190" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rADrI20PCE6jYx3cys35-1604" value="&lt;font color=&quot;#000000&quot;&gt;Headache Attack Logger with a big red button&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1620" width="213" height="121.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
